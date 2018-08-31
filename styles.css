@@ -22,6 +22,7 @@ form {
   border-radius: 5px;
   height: 150px;
   margin-top: 5px;
+  -webkit-user-select: auto;
   width: 100%;
 }
 
