@@ -1,0 +1,39 @@
+html, body {
+  font-size: 20px;
+  height: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  padding-top:10%;;
+  /* text-align: center; */
+  width: 50%;
+}
+
+form {
+  width: 100%;
+}
+
+.textarea {
+  height: 150px;
+  margin-top: 5px;
+  width: 100%;
+}
+
+#form-submit {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+#output {
+  font-weight: bolder;
+  text-align: left;
+  width: 100%;
+  word-spacing: 10px;
+}
