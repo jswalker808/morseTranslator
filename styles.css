@@ -44,6 +44,12 @@ form {
   word-spacing: 10px;
 }
 
+a {
+  display: block;
+  margin: auto;
+  margin-top: 35px;
+}
+
 @media only screen and (max-width: 600px) {
     .container {
       width: 80%;
